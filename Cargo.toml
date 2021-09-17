@@ -1,5 +1,5 @@
 [package]
-name = "untitled"
+name = "module_rust"
 version = "0.1.0"
 authors = ["js <bada@ganada.kr>"]
 edition = "2018"
