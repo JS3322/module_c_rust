@@ -9,7 +9,10 @@ Rust Module List
 ---
 ### Log
 20210917 add threadpool
+
 20210920 add perceptron test
+
+20210921 add activation test
 
 ---
 *name : JS  

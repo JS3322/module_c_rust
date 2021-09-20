@@ -3,5 +3,6 @@ extern crate module_rust;
 use module_rust::*;
 
 fn main() {
-    perceptron::tests();
+    //perceptron::tests();
+    activation::tests();
 }
