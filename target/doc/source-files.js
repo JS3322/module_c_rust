@@ -1,0 +1,13 @@
+var N = null;var sourcesIndex = {};
+sourcesIndex["byteorder"] = {"name":"","files":["io.rs","lib.rs"]};
+sourcesIndex["libc"] = {"name":"","dirs":[{"name":"unix","dirs":[{"name":"bsd","dirs":[{"name":"apple","dirs":[{"name":"b64","dirs":[{"name":"x86_64","files":["align.rs","mod.rs"]}],"files":["mod.rs"]}],"files":["mod.rs"]}],"files":["mod.rs"]}],"files":["align.rs","mod.rs"]}],"files":["fixed_width_ints.rs","lib.rs","macros.rs"]};
+sourcesIndex["matrixmultiply"] = {"name":"","files":["archparam.rs","debugmacros.rs","dgemm_kernel.rs","gemm.rs","kernel.rs","lib.rs","loopmacros.rs","sgemm_kernel.rs","util.rs"]};
+sourcesIndex["mnist"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["num"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["num_integer"] = {"name":"","files":["average.rs","lib.rs","roots.rs"]};
+sourcesIndex["num_iter"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["num_traits"] = {"name":"","dirs":[{"name":"ops","files":["checked.rs","inv.rs","mod.rs","mul_add.rs","overflowing.rs","saturating.rs","wrapping.rs"]}],"files":["bounds.rs","cast.rs","float.rs","identities.rs","int.rs","lib.rs","macros.rs","pow.rs","real.rs","sign.rs"]};
+sourcesIndex["rand"] = {"name":"","dirs":[{"name":"distributions","files":["bernoulli.rs","binomial.rs","cauchy.rs","exponential.rs","float.rs","gamma.rs","integer.rs","log_gamma.rs","mod.rs","normal.rs","other.rs","pareto.rs","poisson.rs","uniform.rs","ziggurat_tables.rs"]},{"name":"prng","files":["chacha.rs","hc128.rs","isaac.rs","isaac64.rs","isaac_array.rs","mod.rs","xorshift.rs"]},{"name":"rngs","dirs":[{"name":"adapter","files":["mod.rs","read.rs","reseeding.rs"]}],"files":["entropy.rs","jitter.rs","mock.rs","mod.rs","os.rs","small.rs","std.rs","thread.rs"]}],"files":["lib.rs","prelude.rs","seq.rs"]};
+sourcesIndex["rawpointer"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["rulinalg"] = {"name":"","dirs":[{"name":"macros","files":["matrix.rs","matrix_eq.rs","mod.rs","vector.rs"]},{"name":"matrix","dirs":[{"name":"base","files":["impl_base.rs","mod.rs"]},{"name":"decomposition","files":["bidiagonal.rs","cholesky.rs","eigen.rs","hessenberg.rs","lu.rs","mod.rs","qr.rs","svd.rs"]}],"files":["deref.rs","impl_mat.rs","impl_ops.rs","impl_permutation_mul.rs","iter.rs","mat_mul.rs","mod.rs","permutation_matrix.rs","slice.rs"]},{"name":"norm","files":["mod.rs"]},{"name":"vector","files":["impl_ops.rs","impl_vec.rs","mod.rs"]}],"files":["convert.rs","error.rs","lib.rs","ulp.rs","utils.rs"]};
+createSourceSidebar();

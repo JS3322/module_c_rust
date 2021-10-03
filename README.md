@@ -1,10 +1,10 @@
 ```
-Rust Module List
+Module List
 ```
 ---
 ### Package Architecture
-1. perceptron | perceptron
-
+#### Module Name | Module Explanation | Route
+1. perceptron | algorithm perceptron | src/perceptron
 
 ---
 ### Log
@@ -13,6 +13,14 @@ Rust Module List
 20210920 add perceptron test
 
 20210921 add activation test
+
+## Stay in touch
+
+- Designer - [JS KIM](https://cleancode.kr)
+
+## License
+
+[MIT licensed](LICENSE)
 
 ---
 *name : JS  

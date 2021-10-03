@@ -1,3 +1,10 @@
+/// * @Process: complete
+/// * @Project_Name: module
+/// * @Package_Name: activation
+/// * @Made_By: JS
+/// * @The_creation_time: --
+/// * @File_Name: mod.rs
+
 pub mod activation;
 
 use common::plot;

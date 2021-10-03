@@ -1,3 +1,10 @@
+/// * @Process: complete
+/// * @Project_Name: module
+/// * @Package_Name: common
+/// * @Made_By: JS
+/// * @The_creation_time: --
+/// * @File_Name: plot.rs
+
 use std::f32;
 
 pub fn print_graph(data: &[f32], width: usize, height: usize) {
