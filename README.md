@@ -14,12 +14,12 @@ Module List
 
 20210921 add activation test
 
+---
 ## Stay in touch
-
 - Designer - [JS KIM](https://cleancode.kr)
 
+---
 ## License
-
 [MIT licensed](LICENSE)
 
 ---
