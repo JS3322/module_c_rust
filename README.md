@@ -1,6 +1,7 @@
 ```
 Module List
 ```
+
 ---
 ### Package Architecture
 #### Module Name | Module Explanation | Route
@@ -16,7 +17,7 @@ Module List
 
 ---
 ## Stay in touch
-Designer - [JS KIM](https://cleancode.kr)
+- Designer - [JS KIM](https://cleancode.kr)
 
 ---
 ## License
