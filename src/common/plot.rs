@@ -4,8 +4,8 @@
 /// * @Made_By: JS
 /// * @The_creation_time: --
 /// * @File_Name: plot.rs
+/// * @Version : rustc 1.57.0-nightly
 /// * @contents: -
-
 use std::f32;
 
 pub fn print_graph(data: &[f32], width: usize, height: usize) {

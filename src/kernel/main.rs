@@ -4,6 +4,7 @@
 /// * @Made_By: JS
 /// * @The_creation_time: --
 /// * @File_Name: main.rs
+/// * @Version : rustc 1.57.0-nightly
 /// * @contents: -
 
 #[no_mangle]

@@ -26,4 +26,4 @@ Module List
 ---
 *name : JS  
 *page : cleancode.kr    
-*email : bada@ganada.kr
+*email : js@cleancode.kr
