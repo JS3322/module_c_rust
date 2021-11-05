@@ -15,12 +15,8 @@ enum Message {
 
 impl ThreadPool {
     /// New Thread Pool
-    ///
-    /// The size is the number of threads in the pool,
-    ///
-    /// # Panics
-    ///
-    /// The 'new' function will panic if the size is zero
+    /// The size is the number of threads in the pool
+
     pub fn new(size: usize) -> ThreadPool {
         assert!(size > 0);
 

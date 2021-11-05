@@ -19,7 +19,7 @@ pub extern "C" fn _start() -> ! {
         *ptr = 42;
     }
 
-    // 전과 같음
+    // 동일
     #[cfg(test)]
     test_main();
 
