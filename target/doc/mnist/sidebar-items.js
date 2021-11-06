@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Mnist","Struct containing image and label vectors for the training, validation, and test sets."],["MnistBuilder","Struct used for configuring how to load the MNIST data."],["NormalizedMnist","Struct containing (normalized) image and label vectors for the training, validation, and test sets."]]});
