@@ -8,14 +8,14 @@
 /// * @contents: -
 pub mod activation;
 
-use common::plot;
+//use common::plot;
 use rulinalg::matrix::{BaseMatrix, Matrix};
 
 fn test_function(f: fn(Matrix<f32>) -> Matrix<f32>) {
     let data: Vec<_> = (-50..50).map(|n| n as f32 / 10.0).collect();
     let out = f(Matrix::new(1, data.len(), data));
     let graph_data: Vec<_> = out.iter().map(|v| *v).collect();
-    plot::print_graph(&graph_data[..], 50, 20);
+    //plot::print_graph(&graph_data[..], 50, 20);
 }
 
 pub fn tests() {
