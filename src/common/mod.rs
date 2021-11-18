@@ -6,4 +6,7 @@
 /// * @File_Name: mod.rs
 /// * @Version : rustc 1.57.0-nightly
 /// * @contents: -
+pub mod matrix_utils;
+pub mod mnist;
 pub mod plot;
+pub mod utils;
