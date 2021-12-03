@@ -1,0 +1,10 @@
+[package]
+name = "library_test"
+version = "0.1.0"
+authors = ["“js” <“js@cleancode.kr”>"]
+edition = "2018"
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
