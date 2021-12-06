@@ -3,14 +3,8 @@ Module List
 ```
 
 ---
-### TODO List
-- [ ] -
-[ ] -
-
----
-### Package Architecture
-#### Module Name | Module Explanation | Route
-1. perceptron | algorithm perceptron | src/perceptron
+### TODO List | Route
+- [O] algorithm perceptron | calculation_perceptron_rust
 
 ---
 ## Stay in touch
