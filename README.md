@@ -4,14 +4,14 @@ Module List
 
 ---
 ### TODO List | Route
-- [O] algorithm perceptron | calculation_perceptron_rust
+- [x] algorithm perceptron | calculation_perceptron_rust
 
 ---
-## Stay in touch
+### Stay in touch
 - Developer - [JS KIM](https://cleancode.kr)
 
 ---
-## License
+### License
 [MIT licensed](LICENSE)
 
 ---
