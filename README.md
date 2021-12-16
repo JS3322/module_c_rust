@@ -5,6 +5,7 @@ Module List
 ---
 ### TODO List | Route
 - [x] algorithm perceptron | calculation_perceptron_rust
+- [ ] calculation crossentropy | calculation_crossentropy_rust
 
 ---
 ### Stay in touch
