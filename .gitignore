@@ -68,3 +68,5 @@ README_private.md
 .DS_Store
 .idea
 _temp/
+network_wasm_rust
+network_tcp_thread_rust
